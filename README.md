@@ -72,8 +72,16 @@ Current Board: ...
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to improve the game!
 
+## Source Control and Repository Management
+One of the key challenges I faced while building the Eleven game was managing both the main project and test files on GitHub. Although I was familiar with basic source control, integrating a main project alongside test files and ensuring everything was committed cleanly posed new challenges. I struggled initially with reconciling different branches, ensuring the tests and project files remained organized, and avoiding conflicts.
+
+After encountering some errors that seemed difficult to trace, I discovered they were caused by caching issues rather than code problems. No one had formally taught us source code management with a main project and test files before CSC 350, making this course the first time I dealt with such a structure. Despite the learning curve, this process helped me better understand how to maintain a clean repository, commit changes efficiently, and merge without conflicts, which I am now more confident in managing.
+
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Acknowledgments
 This project was inspired by the classic card game and implemented as a learning exercise in C#.
+
+
+
